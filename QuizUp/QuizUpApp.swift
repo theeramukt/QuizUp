@@ -2,8 +2,6 @@
 //  QuizUpApp.swift
 //  QuizUp
 //
-//  Created by ชญานิษฐ์ โลหะกิจจา on 5/1/2567 BE.
-//
 
 import SwiftUI
 
